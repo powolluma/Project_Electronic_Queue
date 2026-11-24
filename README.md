@@ -6,4 +6,4 @@
 - Муртузалиев Муртузали - [@ksiberx](https://github.com/ksiberx) Роль - Tech Lead, Разработчик
 - Носков Виктор - [@vivivoll](https://github.com/vivivoll) Роль - Аналитик
 - Качкин Максим - [@powolluma](https://github.com/powolluma) Роль - Разработчик
-- Некрасов Евгений - [@twice2x2](https://github.com/twice2x2) Роль - UX/UI
+- Некрасов Евгений - [@twice2x2](https://github.com/twice2x2) Роль - UX/UI, Звукорежиссер
